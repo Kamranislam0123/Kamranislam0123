@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamran-islam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamran-islam/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/kamran.islam.7796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kamran.islam.7796" height="30" width="40" /></a>
-<a href="https://dribbble.com/dribbble.com/kamran_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble.com/kamran_islam" height="30" width="40" /></a>
+<a href="https://dribbble.com/dribbble.com/kamran_islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble.com/kamran_islam" height="40" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
