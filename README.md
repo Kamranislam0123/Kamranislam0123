@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamran Islam</h1>
 <h3 align="center">A passionate  developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="./68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranislam0123&label=Profile%20views&color=0e75b6&style=flat" alt="kamranislam0123" /> </p>
