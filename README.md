@@ -17,7 +17,7 @@
 - 💬 Ask me about **React,FLutter,** - 📫 How to reach me
 **kamranislam8@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
   <a
     href="https://linkedin.com/in/https://www.linkedin.com/in/kamran-islam/"
