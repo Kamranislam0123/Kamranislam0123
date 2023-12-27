@@ -17,6 +17,7 @@
 - 💬 Ask me about React,FLutter
 - 📫 How to reach me kamranislam8@gmail.com 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
@@ -28,7 +29,8 @@
       alt="https://www.linkedin.com/in/kamran-islam/"
       height="30"
       width="40"
-  /></a>
+  />
+  </a>
  
   <a
     href="https://fb.com/https://www.facebook.com/kamran.islam.7796"
