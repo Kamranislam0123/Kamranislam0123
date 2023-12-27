@@ -14,8 +14,8 @@
   />
 </p>
 
-- 💬 Ask me about **React,FLutter,** - 📫 How to reach me
-**kamranislam8@gmail.com**
+-  Ask me about React,FLutter
+- 📫 How to reach me kamranislam8@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
