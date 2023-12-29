@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 Self taught Programmer with proficiency in MERN stack<br><br>🌱 I’m currently learning NextJs<br><br>💬 Ask me about Web Development<br><br>📫 How to reach me kamranislam8@gmail.com<br><br>
 
+<img
+  align="right"
+  alt="Coding"
+  width="400"
+  src="./68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6.gif"
+/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kamran.islam.7796) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamran-islam/) 
