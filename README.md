@@ -37,7 +37,7 @@
 
 ##
 
-<p align="center">(https://github-readme-stats.vercel.app/api?username=Kamranislam0123&show_icons=true&theme=dracula)</p>
+<p align="center">https://github-readme-stats.vercel.app/api?username=Kamranislam0123&show_icons=true&theme=dracula</p>
 
 
 ##
