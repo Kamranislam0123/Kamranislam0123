@@ -37,7 +37,7 @@
 
 ##
 
-<p align="center">https://github-readme-stats.vercel.app/api?username=Kamranislam0123&show_icons=true&theme=dracula</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamranislam0123)](https://github.com/Kamranislam0123/github-readme-stats)
 
 
 ##
