@@ -37,8 +37,7 @@
 
 ##
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kamranislam0123&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="Kamran" /></p>
-<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamranislam0123)](https://github.com/Kamranislam0123/github-readme-stats)
 
 ##
 
