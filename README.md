@@ -119,7 +119,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamranislam0123&show_icons=true&locale=en&layout=compact"
     height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sazidulalam47&show_icons=true&locale=en" height="180"
+  <img src="https://github-readme-stats.vercel.app/api?username=Kamranislam0123&show_icons=true&locale=en" height="180"
     alt="languages graph" />
 </div>
 
@@ -127,7 +127,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/SazidulAlam47"><img
+  <a href="https://www.linkedin.com/in/kamran-islam/"><img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="40" alt="linkedin logo" /></a>
   <a href="mailto:kamranislam8@gmail.com">
@@ -147,9 +147,6 @@
   </a>
 </div>
 
-
-<h3 align="left">Fun Animation:</h3>
-<img src="https://raw.githubusercontent.com/Kamranislam0123/Kamranislam0123/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Profile Counter:</h3>
 <div align="left">
