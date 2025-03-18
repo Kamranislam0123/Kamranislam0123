@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sazidul Alam</h1>
+<h1 align="center">Hi 👋, I'm Md Kamranul Islam</h1>
 <h3 align="center">A Passionate MERN Stack Developer</h3>
 
 <p align="center"> <img
-    src="https://komarev.com/ghpvc/?username=sazidulalam47&label=Profile%20views&color=0e75b6&style=flat"
-    alt="sazidulalam47" /> </p>
+    src="https://komarev.com/ghpvc/?username=Kamranislam0123&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Kamranislam0123" /> </p>
 
 <p>I specialize in developing full-stack web applications using MongoDB, Express.js, React, and Node.js.</p>
 
 <ul>
 <!--   <li>🌱 I’m currently learning <b>Nest.js</b></li> -->
   <li>💬 Ask me about <b>MERN Stack, JavaScript, and Web Development</b></li>
-  <li>📫 How to reach me: <a href="mailto:sazidulalam20@gmail.com">sazidulalam20@gmail.com</a></li>
-  <li>🌐 My portfolio: <a href="https://sazidul-alam.vercel.app" target="_blank" >https://sazidul-alam.vercel.app/</a></li>
+  <li>📫 How to reach me: <a href="mailto:kamranislam8@gmail.com">kamranislam8@gmail.com</a></li>
+  <li>🌐 My portfolio: <a href="https://kamranislam-portfolio.vercel.app/" target="_blank" >https://kamranislam-portfolio.vercel.app/</a></li>
 </ul>
 
 <h3 align="left">🚀 What is the MERN Stack?</h3>
@@ -117,7 +117,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sazidulalam47&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamranislam0123&show_icons=true&locale=en&layout=compact"
     height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=sazidulalam47&show_icons=true&locale=en" height="180"
     alt="languages graph" />
@@ -130,17 +130,17 @@
   <a href="https://www.linkedin.com/in/SazidulAlam47"><img
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
       height="40" alt="linkedin logo" /></a>
-  <a href="mailto:sazidulalam20@gmail.com">
+  <a href="mailto:kamranislam8@gmail.com">
     <img
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
       height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.youtube.com/@SazidulAnik47">
+  <a href="">
     <img
       src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
       height="40" alt="youtube logo" />
   </a>
-  <a href="https://wa.me/+8801971686663">
+  <a href="https://wa.me/+8801771971072">
     <img
       src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge"
       height="40" alt="whatsapp logo" />
@@ -149,9 +149,9 @@
 
 
 <h3 align="left">Fun Animation:</h3>
-<img src="https://raw.githubusercontent.com/SazidulAlam47/SazidulAlam47/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kamranislam0123/Kamranislam0123/output/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Profile Counter:</h3>
 <div align="left">
-  <img src="https://profile-counter.glitch.me/SazidulAlam47/count.svg?" />
+  <img src="https://profile-counter.glitch.me/Kamranislam0123/count.svg?" />
 </div>
