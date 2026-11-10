@@ -53,20 +53,58 @@ Currently working on E-commerce CRM and ERP systems, while leading frontend deve
 
 ## `04 / FEATURED PROJECTS`
 
-<div align="center">
+A selection of digital products and platforms across healthcare, e-commerce, and hospitality.
 
-<a href="https://github.com/Kamranislam0123">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kamranislam0123&repo=YOUR_PROJECT_REPOSITORY&theme=github_dark&hide_border=true" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### TeleRx
 
-**Current engineering focus**
+**Digital Healthcare Platform**
 
-- E-commerce CRM & ERP platforms
-- AI-powered recruitment applications
-- Modern web applications and dashboards
-- API integration and application optimization
+An integrated healthcare platform offering online doctor consultations, digital prescriptions, home care services, and medical products.
+
+[Visit Website ↗](https://telerxbd.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### BeshBuys
+
+**E-commerce Platform**
+
+An online shopping platform designed to simplify product discovery and purchasing through a digital storefront.
+
+[Visit Website ↗](https://beshbuys.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Jolpoddo
+
+**Hospitality & Booking Platform**
+
+A premium houseboat platform featuring accommodation information, booking workflows, travel experiences, and hospitality services.
+
+[Visit Website ↗](https://www.jolpoddobd.com/en)
+
+</td>
+<td width="50%" valign="top">
+
+### More Projects
+
+**Software Engineering**
+
+Explore my GitHub repositories for additional development projects, experiments, and technical work.
+
+[Explore GitHub ↗](https://github.com/Kamranislam0123)
+
+</td>
+</tr>
+</table>
 
 ## `05 / GITHUB ANALYTICS`
 
