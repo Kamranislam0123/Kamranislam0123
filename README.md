@@ -106,18 +106,9 @@ Explore my GitHub repositories for additional development projects, experiments,
 </tr>
 </table>
 
-## `05 / GITHUB ANALYTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kamranislam0123&show_icons=true&theme=github_dark&hide_border=true" />
 
 
-</div>
-
-
-
-## `06 / CONNECT`
+## `05 / CONNECT`
 
 I'm open to meaningful collaborations, interesting engineering challenges, and opportunities to build impactful digital products.
 
